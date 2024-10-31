@@ -88,3 +88,11 @@ button {
 button:hover {
     background: #0056b3;
 }
+
+img {
+    width: 80px; /* Adjust size as needed */
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 10px auto;
+}
