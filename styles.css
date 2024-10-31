@@ -88,3 +88,26 @@ button {
 button:hover {
     background: #0056b3;
 }
+
+/*added css */
+.member-photo {
+    width: 100px; /* Set a fixed width */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%; /* Optional: make it circular */
+    margin-bottom: 10px; /* Space between photo and text */
+}
+
+.moodboard {
+    margin-top: 15px; /* Space above moodboard */
+}
+
+.moodboard-image {
+    width: 80px; /* Set a fixed width for images */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 10px; /* Space between images */
+}
+
+.moodboard a {
+    color: #007BFF; /* Link color */
+    text-decoration: underline; /* Underline links */
+}
